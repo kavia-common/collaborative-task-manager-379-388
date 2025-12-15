@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/collaborative-task-manager-379-388/database_service"
+}
